@@ -1,0 +1,10 @@
+.toDoList{
+    background-color:bisque;
+    justify-content: center;
+    display: flex;
+    padding: 10px 5px;
+
+}
+.inputs{
+    margin-right: 5px;
+}
